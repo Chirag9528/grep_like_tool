@@ -81,7 +81,7 @@ The program expects an input file containing:
     -   A regular expression (on one line).
     -   A string to check against the regular expression (on the next line).
 
-### Note: Don't keep spaces in between the regular expression
+### Note: Don't keep spaces in between the regular expression and the supported operations in the regular expression are union (+), concat (·) and star (∗).
 
 Example: <b>test1.in</b>
 ```
